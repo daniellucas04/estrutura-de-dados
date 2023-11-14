@@ -1,6 +1,6 @@
 # estrutura-de-dados
 
 ## Exercícios a serem feitos
-- [] Natação
+- Natação
 
 ## Exercícios concluídos
