@@ -4,3 +4,5 @@
 - Natação
 
 ## Exercícios concluídos
+- Banco de dados
+
