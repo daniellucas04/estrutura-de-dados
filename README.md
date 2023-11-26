@@ -5,4 +5,4 @@
 
 ## Exercícios concluídos
 - Banco de dados
-
+- Academia
