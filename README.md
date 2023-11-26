@@ -6,3 +6,4 @@
 ## Exercícios concluídos
 - Banco de dados
 - Academia
+- Bus company
